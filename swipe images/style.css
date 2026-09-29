@@ -1,0 +1,68 @@
+.container{
+  background-image: url(./images/image1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+   align-items: center;
+   justify-content: end;
+   
+}
+
+.card{
+   height: 400px;
+   width: 400px;
+   text-align: center;
+   margin-right: 100px;
+   padding: 7px;
+   justify-content: center;
+  
+   border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: wheat;
+}
+
+img{
+   height: 220px;
+   width: 100%;
+   margin-top: 3px;
+   border-radius: 5px;
+
+}
+.marq{
+    color: aliceblue;
+    font-size: large;
+    font-weight: bold;
+}
+
+.card h2{
+   color: rgb(238, 230, 230);
+  
+}
+
+.card p{
+  padding: 6px;
+  color: rgb(255, 248, 248);
+  font-size: medium;
+  
+}
+.pre{
+   
+   border-radius: 8px;
+   color: rgb(8, 6, 6);
+   background-color: rgb(197, 29, 189);
+   padding: 4px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     border-color: rgb(72, 79, 85);
+}
+.next{
+       border-radius: 8px;
+   color: rgb(8, 6, 6);
+   background-color: rgb(197, 29, 189);
+   padding: 4px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      border-color: rgb(72, 79, 85);
+      
+}
